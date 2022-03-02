@@ -9,6 +9,6 @@ PROFESSORA AMANDA LEMETTE T. BRANDAO
 *amanda.lemette@puc-rio.br*
 
 <p align="center">
-<img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=900 height=125 />
+<img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=1900 height=25 />
 </p>
 
