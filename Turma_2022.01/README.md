@@ -37,7 +37,7 @@ e-mail: *amanda.lemette@puc-rio.br*
 3. Revisão sobre Balanceamento de Reações Químicas
     <h6 id="aula3.1"><a href="https://github.com/amandalemette/ENG1818/blob/061ee471c2e5b0cddb895502151207e506a7d050/Turma_2022.01/BalanceandoReacoes.ipynb">:notebook: Acesso ao notebook da aula</a></h6>
 
-4. Balanço de Massa em Processos Químicos
+4. Balanço Material em Processos Químicos
 
     <h6 id="aula4.1"><a href="https://github.com/amandalemette/ENG1818/blob/c3d81e82b61e6935c430c3d0b6086b2c095f59d1/Turma_2022.01/AcAdipico.ipynb">:notebook: Fluxograma do ácido adípico</a></h6>
     
