@@ -35,7 +35,7 @@ e-mail: *amanda.lemette@puc-rio.br*
     <h6 id="aula2.2"><a href="https://github.com/amandalemette/ENG1818/blob/0a1de8469f9ffbb3af91f16762b21cf899d6a8e9/Turma_2022.01/ListaSympy.ipynb">:pencil2: Exercício com Sympy</a></h6>
 
 3. Revisão sobre Balanceamento de Reações Químicas
-href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula1">:notebook:</a></h2>
+    <h6 id="aula3.1"><a href="https://github.com/amandalemette/ENG1818/blob/061ee471c2e5b0cddb895502151207e506a7d050/Turma_2022.01/BalanceandoReacoes.ipynb">:notebook: Acesso ao notebook da aula</a></h6>
 
 <p align="center">
 <img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=3000 height=5 />
