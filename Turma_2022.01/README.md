@@ -37,9 +37,13 @@ e-mail: *amanda.lemette@puc-rio.br*
 3. Revisão sobre Balanceamento de Reações Químicas
     <h6 id="aula3.1"><a href="https://github.com/amandalemette/ENG1818/blob/061ee471c2e5b0cddb895502151207e506a7d050/Turma_2022.01/BalanceandoReacoes.ipynb">:notebook: Acesso ao notebook da aula</a></h6>
 
+4. Balanço de Massa em Processos Químicos
+
+
 <p align="center">
 <img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=3000 height=5 />
 </p>
+
 
 ### Referências
 
