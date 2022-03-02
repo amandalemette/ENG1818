@@ -53,7 +53,7 @@ e-mail: *amanda.lemette@puc-rio.br*
 
     <h6 id="aula5.1"><a href="https://github.com/amandalemette/ENG1818/blob/49915ed27fe4af0d35cc467cbccec8e64b19d0a7/Turma_2022.01/DiagramaFases.ipynb">:notebook: Diagrama de fases para misturas binárias ideais </a></h6>
     
-    <h6 id="aula5.2"><a href="https://github.com/amandalemette/ENG1818/blob/7fd888be190aa42e672b56743a8370528cd4d596/Turma_2022.01/Lista_DiagramaFases.ipynb">:pencil2:  Exercícios </a></h6>
+    <h6 id="aula5.2"><a href="https://github.com/amandalemette/ENG1818/blob/33350af6930d674765bfe38e4583d505fb3ecea2/Turma_2022.01/Lista_DiagramaFases.ipynb">:pencil2:  Exercícios </a></h6>
 
 <p align="center">
 <img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=3000 height=5 />
