@@ -81,3 +81,9 @@ e-mail: *amanda.lemette@puc-rio.br*
 
 ### Referências
 
+- Felder, R.M., Rousseau, R.W., Bullard, L.G.. Elementary Principles of Chemical Processes. Wiley, 4th Edition, 2016.
+<center><img src="https://github.com/amandalemette/ENG1818/blob/c07218af15836113498e6b82f2d75e653805865c/Imagens/book.png?raw=true"  width=100 height=160 />
+    
+- Ghasem, Nayef. Modeling and Simulation of Chemical Process Systems. CRC Press, Taylor & Francis Group, 2019.
+<center><img src="https://github.com/amandalemette/images/blob/4b5bc671e60c4a94d6de9fdd486bdc90daecd516/ENG1818/ref1.png?raw=true"  width=100 height=160 />
+
