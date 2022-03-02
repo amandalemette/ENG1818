@@ -66,6 +66,9 @@ e-mail: *amanda.lemette@puc-rio.br*
     <h6 id="aula7.1"><a href="https://github.com/amandalemette/ENG1818/blob/38de18ae6c18e2fdf91e3e4ba87d0f97ed1053eb/Turma_2022.01/BMestadotransiente.ipynb">:notebook: Acesso ao notebook da aula </a></h6>
     
     <h6 id="aula7.2"><a href="https://github.com/amandalemette/ENG1818/blob/ac557a082ac90d9080f44590ff5c4fd5680603ee/Turma_2022.01/DesidrogenacaoPropano.ipynb">:notebook: Desidrogenação do Propano </a></h6>
+    
+    <h6 id="aula7.3"><a href="https://github.com/amandalemette/ENG1818/blob/223c286ae4c05c8e2de470378bbde420af9c7101/Turma_2022.01/ReformaMetano.ipynb">:notebook: Reforma a vapor do metano </a></h6>
+    
 
 8. Reatores ideais
 
