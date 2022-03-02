@@ -60,6 +60,18 @@ e-mail: *amanda.lemette@puc-rio.br*
     <h6 id="aula6.1"><a href="https://github.com/amandalemette/ENG1818/blob/e4b590863e73d21992210f57c37f2e683f7b69d0/Turma_2022.01/PB_PORV_Flash.ipynb">:notebook: FLASH </a></h6>
     
     <h6 id="aula6.2"><a href="https://github.com/amandalemette/ENG1818/blob/71d4975423ab0e0bef80b23f6a016166caa35f74/Turma_2022.01/Lista_Flash.ipynb">:pencil2:  Exercícios de Flash </a></h6>
+        
+7. Balanços Materiais em Estado Transiente
+
+
+8. Reatores ideais
+
+9. Coluna de destilação 
+
+10. Otimização
+
+
+
 
 <p align="center">
 <img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=3000 height=5 />
