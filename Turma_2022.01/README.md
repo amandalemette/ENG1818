@@ -26,7 +26,7 @@ e-mail: *amanda.lemette@puc-rio.br*
 
     <h6 id="aula1"><a href="https://bit.ly/3tGZpY7">:notebook:Acesso ao notebook da aula  </a></h6>
 
- - <h6 id="aula1"><a href="https://github.com/amandalemette/ENG1818/blob/2fd10a47da971f6c7748eb5500992dece88f39a0/Turma_2022.01/Exercicios_Python.ipynb">:pencil2: Exercícios de programação em Python  </a></h6>
+    <h6 id="aula1"><a href="https://github.com/amandalemette/ENG1818/blob/2fd10a47da971f6c7748eb5500992dece88f39a0/Turma_2022.01/Exercicios_Python.ipynb">:pencil2: Exercícios de programação em Python  </a></h6>
 
 3. Resolvendo Equações Lineares com a biblioteca Sympy
 href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula1">:notebook:</a></h2>
