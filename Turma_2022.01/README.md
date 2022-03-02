@@ -39,6 +39,7 @@ e-mail: *amanda.lemette@puc-rio.br*
 
 4. Balanço de Massa em Processos Químicos
 
+<h6 id="aula4.1"><a href="https://github.com/amandalemette/ENG1818/blob/c3d81e82b61e6935c430c3d0b6086b2c095f59d1/Turma_2022.01/AcAdipico.ipynb">:notebook: Fluxograma do ácido adípico</a></h6>
 
 <p align="center">
 <img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=3000 height=5 />
