@@ -63,6 +63,7 @@ e-mail: *amanda.lemette@puc-rio.br*
         
 7. Balanços Materiais em Estado Transiente
 
+    <h6 id="aula7.1"><a href="https://github.com/amandalemette/ENG1818/blob/38de18ae6c18e2fdf91e3e4ba87d0f97ed1053eb/Turma_2022.01/BMestadotransiente.ipynb">:notebook: Acesso ao notebook da aula </a></h6>
 
 8. Reatores ideais
 
