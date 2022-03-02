@@ -48,6 +48,10 @@ e-mail: *amanda.lemette@puc-rio.br*
     <h6 id="aula4.3"><a href="https://github.com/amandalemette/ENG1818/blob/681adb3ba2bccb0714968f8feea1e2b1e24fa732/Turma_2022.01/FluxogOxidoEtileno.ipynb">:notebook: Fluxograma do óxido de etileno</a></h6>
     
     <h6 id="aula4.4"><a href="https://github.com/amandalemette/ENG1818/blob/a2901516dfb54aa973c34bf934bf0537876f300e/Turma_2022.01/Equacoes_Balanco_Fundamentais.ipynb">:notebook: Balanços no Estado Estacionário </a></h6>
+    
+5. Equilíbrio Líquido/Vapor
+
+    <h6 id="aula5.1"><a href="https://github.com/amandalemette/ENG1818/blob/49915ed27fe4af0d35cc467cbccec8e64b19d0a7/Turma_2022.01/DiagramaFases.ipynb">:notebook: Diagramas de equilíbrio </a></h6>
 
 <p align="center">
 <img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=3000 height=5 />
