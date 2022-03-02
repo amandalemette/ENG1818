@@ -22,7 +22,7 @@ e-mail: *amanda.lemette@puc-rio.br*
 
 ### Tópicos da Disciplina
 
-1. <h2 id="aula1"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula1">Introdução ao Python e ao ambiente de programação **Google Colaboratory**</a></h2>
+1. Introdução ao Python e ao ambiente de programação **Google Colaboratory** <h2 id="aula1"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula1"></a> :notebook: </h2>
 2. Resolvendo Equações Lineares com a biblioteca Sympy
 3. Revisão sobre Balanceamento de Reações Químicas
 4. 
