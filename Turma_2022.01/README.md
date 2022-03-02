@@ -22,8 +22,13 @@ e-mail: *amanda.lemette@puc-rio.br*
 
 ### Tópicos da Disciplina
 
-1. Introdução ao Python e ao ambiente de programação **Google Colaboratory** <h6 id="aula1"><a href="https://bit.ly/3tGZpY7">:notebook:Acesso ao notebook da aula  </a></h6>
-2. Resolvendo Equações Lineares com a biblioteca Sympy
+1. Introdução ao Python e ao ambiente de programação **Google Colaboratory** 
+
+<h6 id="aula1"><a href="https://bit.ly/3tGZpY7">:notebook:Acesso ao notebook da aula  </a></h6>
+
+<h6 id="aula1"><a href=https://bit.ly/3HyNIYb>:pencil2: Exercícios de programação em Python  </a></h6>
+
+3. Resolvendo Equações Lineares com a biblioteca Sympy
 href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula1">:notebook:</a></h2>
 3. Revisão sobre Balanceamento de Reações Químicas
 href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula1">:notebook:</a></h2>
