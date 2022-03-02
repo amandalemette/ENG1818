@@ -22,6 +22,8 @@ e-mail: *amanda.lemette@puc-rio.br*
 
 ### Tópicos da Disciplina
 
+1. Introdução ao Python e ao ambiente de programação **Google Colaboratory** 
+
 <p align="center">
 <img src="https://github.com/amandalemette/ENG1818/blob/5a2a8ae2c6d70dfdadac589ef29561218447d37b/Imagens/im.png?raw=true" width=3000 height=5 />
 </p>
