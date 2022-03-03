@@ -95,3 +95,7 @@ A disciplina *Simulação e Otimização de Processos Químicos* aborda os princ
 - Ghasem, Nayef. Modeling and Simulation of Chemical Process Systems. CRC Press, Taylor & Francis Group, 2019.
 <center><img src="https://github.com/amandalemette/images/blob/4b5bc671e60c4a94d6de9fdd486bdc90daecd516/ENG1818/ref1.png?raw=true"  width=100 height=160 />
 
+- Murphy, Regina. Introduction to Chemical Processes: Principles, Analysis, Synthesis. McGraw-Hill Education, 1st Edition, 2005.
+<center><img src="https://github.com/amandalemette/ENG1818/blob/12d5e375186eda4d950b0b3b60e058b189a6f5c1/Imagens/im7.png?raw=true"  width=100 height=160 />
+    
+
