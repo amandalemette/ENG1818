@@ -70,6 +70,8 @@ A disciplina *Simulação e Otimização de Processos Químicos* aborda os princ
     
     <h6 id="aula7.3"><a href="https://github.com/amandalemette/ENG1818/blob/223c286ae4c05c8e2de470378bbde420af9c7101/Turma_2022.01/ReformaMetano.ipynb">:notebook: Reforma a vapor do metano </a></h6>
     
+    <h6 id="aula7.4"><a href="https://github.com/amandalemette/ENG1818/blob/da683dbb24e1c487495ebd42ddba00f57623453c/Turma_2022.01/BalancoMassaNivelTanque.ipynb">:notebook: Monitoramento do nível de água em um tanque </a></h6>
+    
 
 8. Reatores ideais
 
