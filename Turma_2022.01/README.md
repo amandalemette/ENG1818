@@ -98,4 +98,6 @@ A disciplina *Simulação e Otimização de Processos Químicos* aborda os princ
 - Murphy, Regina. Introduction to Chemical Processes: Principles, Analysis, Synthesis. McGraw-Hill Education, 1st Edition, 2005.
 <center><img src="https://github.com/amandalemette/ENG1818/blob/12d5e375186eda4d950b0b3b60e058b189a6f5c1/Imagens/im7.png?raw=true"  width=100 height=160 />
     
+- Fogler, Scott. Elementos de Engenharia das Reações Químicas. LTC, 4a Edição, 2009.
+<center><img src="https://github.com/amandalemette/ENG1818/blob/601183f3155bf66274ffa37137c158cc0ac5d975/Imagens/im10.png?raw=true"  width=100 height=160 />
 
