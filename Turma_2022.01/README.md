@@ -75,9 +75,9 @@ A disciplina *Simulação e Otimização de Processos Químicos* aborda os princ
 
 8. Reatores ideais
 
-<h6 id="aula8.1"><a href="https://github.com/amandalemette/ENG1818/blob/f90677c983ab9c00e96fe1d1a51afe7b3640e026/Turma_2022.01/CSTR_1.ipynb">:notebook: Acesso ao notebook da aula: CSTR isotérmico </a></h6>
+    <h6 id="aula8.1"><a href="https://github.com/amandalemette/ENG1818/blob/f90677c983ab9c00e96fe1d1a51afe7b3640e026/Turma_2022.01/CSTR_1.ipynb">:notebook: Acesso ao notebook da aula: CSTR isotérmico </a></h6>
 
-<h6 id="aula8.2"><a href="https://github.com/amandalemette/ENG1818/blob/f90677c983ab9c00e96fe1d1a51afe7b3640e026/Turma_2022.01/CSTR_2.ipynb">:notebook: Acesso ao notebook da aula: CSTR exotérmico </a></h6>
+    <h6 id="aula8.2"><a href="https://github.com/amandalemette/ENG1818/blob/f90677c983ab9c00e96fe1d1a51afe7b3640e026/Turma_2022.01/CSTR_2.ipynb">:notebook: Acesso ao notebook da aula: CSTR exotérmico </a></h6>
 
 9. Coluna de destilação 
 
