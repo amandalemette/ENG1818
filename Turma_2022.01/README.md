@@ -100,4 +100,7 @@ A disciplina *Simulação e Otimização de Processos Químicos* aborda os princ
     
 - Fogler, Scott. Elementos de Engenharia das Reações Químicas. LTC, 4a Edição, 2009.
 <center><img src="https://github.com/amandalemette/ENG1818/blob/601183f3155bf66274ffa37137c158cc0ac5d975/Imagens/im10.png?raw=true"  width=100 height=160 />
+    
+- Seborg, Edgar, Mellichamp, Doyle. Process Dynamics and Control. John Wiley & Sons, Inc., 3rd Edition, 2011.
+<center><img src="https://github.com/amandalemette/ENG1818/blob/78e5c648d72e43bd37e12997312be0925fc05518/Imagens/im12.png?raw=true"  width=100 height=160 />
 
