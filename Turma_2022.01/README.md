@@ -77,9 +77,12 @@ A disciplina *Simulação e Otimização de Processos Químicos* aborda os princ
 
     <h6 id="aula8.1"><a href="https://github.com/amandalemette/ENG1818/blob/f90677c983ab9c00e96fe1d1a51afe7b3640e026/Turma_2022.01/CSTR_1.ipynb">:notebook: Acesso ao notebook da aula: CSTR isotérmico </a></h6>
 
-    <h6 id="aula8.2"><a href="https://github.com/amandalemette/ENG1818/blob/f90677c983ab9c00e96fe1d1a51afe7b3640e026/Turma_2022.01/CSTR_2.ipynb">:notebook: Acesso ao notebook da aula: CSTR exotérmico </a></h6>
+    <h6 id="aula8.2"><a href="https://github.com/amandalemette/ENG1818/blob/f90677c983ab9c00e96fe1d1a51afe7b3640e026/Turma_2022.01//Notebooks/CSTR_2.ipynb">:notebook: Acesso ao notebook da aula: CSTR exotérmico </a></h6>
 
 9. Coluna de destilação 
+
+<h6 id="aula9.1"><a href="https://github.com/amandalemette/ENG1818/blob/49ba0722112da01a2859b8219fb4b81418b7118c/Turma_2022.01/Notebooks/ColDestilacao.ipynb">:notebook: Acesso ao notebook da aula: Simulação de coluna de destilação </a></h6>
+
 
 10. Otimização
 
