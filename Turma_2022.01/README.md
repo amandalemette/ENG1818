@@ -46,7 +46,7 @@ A disciplina *Simulação e Otimização de Processos Químicos* aborda os princ
     
     <h6 id="aula4.3"><a href="https://github.com/amandalemette/ENG1818/blob/a2843db3ab2db2052da3da1c43eeb80ba57cf381/Turma_2022.01/Notebooks/FluxogOxidoEtileno.ipynb">:notebook: Fluxograma do óxido de etileno</a></h6>
     
-    <h6 id="aula4.3"><a href="https://github.com/amandalemette/ENG1818/blob/681adb3ba2bccb0714968f8feea1e2b1e24fa732/Turma_2022.01/FluxogOxidoEtileno.ipynb">:notebook: Fluxograma do óxido de etileno</a></h6>
+    <h6 id="aula4.3"><a href="https://github.com/amandalemette/ENG1818/blob/7df9d443e86d4f66764b020cd3e3741e74a83b30/Turma_2022.01/DesidrogenacaoPropano.ipynb">:notebook: Desidrogenação do Propano</a></h6>
     
     <h6 id="aula4.4"><a href="https://github.com/amandalemette/ENG1818/blob/a2901516dfb54aa973c34bf934bf0537876f300e/Turma_2022.01/Equacoes_Balanco_Fundamentais.ipynb">:notebook: Balanços no Estado Estacionário </a></h6>
     
