@@ -66,7 +66,7 @@ A disciplina *Simulação e Otimização de Processos Químicos* aborda os princ
 
     <h6 id="aula7.1"><a href="https://github.com/amandalemette/ENG1818/blob/5247a6e6104d49801b1246ab63d85956d91d68ee/Turma_2022.01/Notebooks/BMestadotransiente.ipynb">:notebook: Balanço Material em estado Transiente Introdução </a></h6>
     
-    <h6 id="aula7.2"><a href="https://github.com/amandalemette/ENG1818/blob/ac557a082ac90d9080f44590ff5c4fd5680603ee/Turma_2022.01/DesidrogenacaoPropano.ipynb">:notebook: Desidrogenação do Propano </a></h6>
+    <h6 id="aula7.2"><a href="https://github.com/amandalemette/ENG1818/blob/fa45bfd55944edb670c6a97d2bf87dcf5076688b/Turma_2022.01/Notebooks/DesidrogenacaoPropano.ipynb">:notebook: Desidrogenação do Propano </a></h6>
     
     <h6 id="aula7.3"><a href="https://github.com/amandalemette/ENG1818/blob/223c286ae4c05c8e2de470378bbde420af9c7101/Turma_2022.01/ReformaMetano.ipynb">:notebook: Reforma a vapor do metano </a></h6>
     
